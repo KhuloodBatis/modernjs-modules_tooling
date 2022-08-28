@@ -1,0 +1,24 @@
+{
+  "name": "modernjs-modules_tooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/khuloodbatis/modernjs-modules_tooling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/khuloodbatis/modernjs-modules_tooling/issues"
+  },
+  "homepage": "https://gitlab.com/khuloodbatis/modernjs-modules_tooling#readme",
+  "dependencies": {
+    "leaflet": "^1.8.0",
+    "lodash-es": "^4.17.21",
+    "parcel": "^2.7.0"
+  }
+}
